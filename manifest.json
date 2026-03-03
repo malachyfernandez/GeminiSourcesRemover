@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "GeminiStrip",
-  "version": "0.0.0.2",
+  "name": "GeminiStrip — Clean Up Gemini Responses",
+  "version": "0.1.0.2",
   "description": "Strips away inline source citations on Gemini.",
   "permissions": ["storage"],
   "icons": {
