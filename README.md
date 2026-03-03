@@ -1,8 +1,8 @@
-# Gemini Source Remover
+# GeminiStrip
 
-A Chrome extension that toggles the removal of inline source citations on Google Gemini.
+A Chrome extension that strips away inline source citations on Google Gemini.
 
-**Gemini Source Remover** gives you control over the inline source citations that appear in Gemini responses, allowing you to focus on the content without visual distractions.
+**GeminiStrip** gives you control over the inline source citations that appear in Gemini responses, allowing you to focus on the content without visual distractions.
 
 ---
 
@@ -17,7 +17,7 @@ A Chrome extension that toggles the removal of inline source citations on Google
 
 ## 🚀 How to Install (Chrome)
 
-You'll need to enable **Developer Mode** to install Gemini Source Remover manually.
+You'll need to enable **Developer Mode** to install GeminiStrip manually.
 
 1. **Download or clone this repo** to your computer.
 
@@ -28,14 +28,14 @@ You'll need to enable **Developer Mode** to install Gemini Source Remover manual
 
 4. Click **"Load unpacked"** and select the folder where you downloaded this project.
 
-That's it! You should now see Gemini Source Remover in your list of extensions.
+That's it! You should now see GeminiStrip in your list of extensions.
 
 ---
 
 ## 🎯 How to Use
 
 1. **Navigate to Gemini**: Go to [gemini.google.com](https://gemini.google.com)
-2. **Click the extension icon**: Click on the Gemini Source Remover icon in your Chrome toolbar
+2. **Click the extension icon**: Click on the GeminiStrip icon in your Chrome toolbar
 3. **Toggle the switch**: Use the toggle to enable or disable inline source removal
 4. **See changes instantly**: Sources will immediately disappear or reappear on the current page
 
@@ -68,6 +68,6 @@ That's it! You should now see Gemini Source Remover in your list of extensions.
 
 ---
 
-✨ No complicated setup. No confusing menus. Gemini Source Remover is built to stay out of your way and just work.
+✨ No complicated setup. No confusing menus. GeminiStrip is built to stay out of your way and just work.
 
 Made with ❤️ for a cleaner AI experience.

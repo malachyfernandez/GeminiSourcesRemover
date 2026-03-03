@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Gemini Source Remover",
-  "version": "0.0.0.1",
-  "description": "Toggles the removal of inline sources on Gemini.",
+  "name": "GeminiStrip",
+  "version": "0.0.0.2",
+  "description": "Strips away inline source citations on Gemini.",
   "permissions": ["storage"],
   "icons": {
     "16": "ICONFINAL.png",

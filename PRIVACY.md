@@ -1,10 +1,10 @@
-# Privacy Policy for Gemini Source Remover
+# Privacy Policy for GeminiStrip
 
 **Last Updated:** February 14, 2026
 
 ## Overview
 
-Gemini Source Remover is a browser extension that allows users to toggle the visibility of inline sources on Google Gemini's website. This privacy policy explains how we handle user data.
+GeminiStrip is a browser extension that allows users to toggle the visibility of inline sources on Google Gemini's website. This privacy policy explains how we handle user data.
 
 ## Data Collection
 
